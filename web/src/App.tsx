@@ -1,6 +1,11 @@
-function App() {
+import './styles/main.css';
 
-  return <h1>Hello World</h1>
+function App() {
+  return (
+    <div className="w-8 h-8 bg-violet-400 lg:bg-black">
+
+    </div>
+  )
 }
 
 export default App
